@@ -53,8 +53,8 @@ Start the backend server: npm run dev
 
 4. Frontend Setup
 
-cd ../frontend
-npm install
+   cd ../frontend
+   npm install
 
 Start the React development server: npm start
 
