@@ -41,12 +41,15 @@ cd lawyer-appointment-booking
 2.Backend Setup
 
 cd backend
+
 npm install
 
 3. Create a .env file in the backend/ directory with the following:
    
 PORT=5000
+
 MONGO_URI=your_mongodb_uri
+
 JWT_SECRET=your_jwt_secret
 
 Start the backend server: npm run dev
@@ -54,6 +57,7 @@ Start the backend server: npm run dev
 4. Frontend Setup
 
    cd ../frontend
+   
    npm install
 
 Start the React development server: npm start
